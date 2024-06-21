@@ -4,7 +4,7 @@ Welcome to the Netflix Clone Project! This repository contains a front-end imple
 A Netflix Clone typically refers to a streaming platform designed to mimic the user experience of Netflix.
 
 ##Technologies
-The clone is built using HTMl and CSS to test my knowledge on flexbox. As mentioned, flexbox is used to provide layout.
+###The clone is built using HTMl and CSS to test my knowledge on flexbox. As mentioned, flexbox is used to provide layout.
 
 ##Home page
 Welcome to our NETFLIX clone's homepage, where entertainment meets convenience. As you land on our sleek interface, you're greeted with the attractive image and text that briefly describe the essence of Netflix.
