@@ -19,10 +19,9 @@ After scrolling down, Upon reaching the FAQ section, users can access answers to
 **HTML elements**: Utilizing input, label and div tag.
 **CSS properties**: Employed position, flex, background-color, content, transition and transform.
 
-
 ## Footer
 The footer section marks the bottom of the page includes relevent links organized into four columns.Each link is implemented using <a> tag with an href attribute. These links are grouped within <div> tags, with 
- each containing four links. The main <div> tag utilizes the display:flex property with a flex-direction set to row to arrange column horizontally.
+each containing four links. The main <div> tag utilizes the display:flex property with a flex-direction set to row to arrange column horizontally.
 ### Implementation details
 **HTML elements**: Utilizing footer, a and div tag.
 **CSS properties**: Employed flex, background-color.
