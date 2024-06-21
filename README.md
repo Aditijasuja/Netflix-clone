@@ -12,22 +12,18 @@ Welcome to our NETFLIX clone's homepage, where entertainment meets convenience. 
 HTML elements: Utilizing header, div, and main tags for structuring content.
 CSS properties: Employed background-color, background-image, flex, z-index, and position for styling and layout management.
 Fonts: The font family includes Netflix sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, and fallback to sas-serif for better readability.
-### Preview
-![home-page]("C:\Users\ADITI JASUJA\Pictures\Screenshots\Home-page.png")
 
 ## Frequently asked question
 After scrolling down, Upon reaching the FAQ section, users can access answers to comman questions. Each question is linked to its answer through a hidden radio button implemented using the <input> tag and CSS. By clicking a '+' symbol positioned using absolute CSS, users can reveal the corresponding answer.After answer is revealed '+' symbol is tilt using CSS tranform property. The questions are presented using <label> tag for clarity and accessibility.
 ### Implementation details
 HTML elements: Utilizing input, label and div tag.
 CSS properties: Employed position, flex, background-color, content, transition and transform.
-### Preview
-![frequently-asked-question]("C:\Users\ADITI JASUJA\Pictures\Screenshots\Frequently-asked-question.png")
+
 
 ## Footer
 The footer section marks the bottom of the page includes relevent links organized into four columns.Each link is implemented using <a> tag with an href attribute. These links are grouped within <div> tags, with each containing four links. The main <div> tag utilizes the display:flex property with a flex-direction set to row to arrange column horizontally.
 ### Implementation details
 HTML elements: Utilizing footer, a and div tag.
 CSS properties: Employed flex, background-color.
-### Preview
-![Footer]("C:\Users\ADITI JASUJA\Pictures\Screenshots\footer.png")
+
 
